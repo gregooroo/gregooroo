@@ -18,7 +18,7 @@ Hi there 👋 I'm Mateusz 👨🏻‍💻
   Backend: <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="	https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" />
   <br><br>
   Tools:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -32,3 +32,7 @@ I mentioned Linux above. To be more percise I use Archlinux btw :D<br>
 <img align="center" src="./arch.png" alt="arch-btw">
 
 </p>
+
+<h2 align="center">Check out my projects below ⬇</h2>
+
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gregooroo&repo=dictionary-api)](https://github.com/gregooroo/dictionary-api) -->
