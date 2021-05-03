@@ -1,13 +1,11 @@
 <h1 align="center">
 Hi there 👋 I'm Mateusz 👨🏻‍💻
 </h1>
-<center>
 
-🔭 I’m currently looking for a job.
-
-📫 How to reach me: gregooroo@gmail.com
-
-</center>
+<p align="center">
+🔭 I’m currently looking for a job.<br>
+📫 How to reach me: <a href="mailto:gregooroo@gmail.com">gregooroo@gmail.com</a>
+</p>
 
 <p align='center'>
 <strong>🛠️Technologies</strong><br><br>
@@ -30,8 +28,7 @@ Hi there 👋 I'm Mateusz 👨🏻‍💻
 </p>
 
 <p align="center">
-I mentioned Linux above. To be more percise I use Archlinux btw :D
-
+I mentioned Linux above. To be more percise I use Archlinux btw :D<br>
 <img align="center" src="./arch.png" alt="arch-btw">
 
 </p>
