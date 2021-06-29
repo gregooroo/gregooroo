@@ -5,7 +5,8 @@ Hi there 👋 I'm Mateusz 👨🏻‍💻
 <p align="center">
 🔭 I’m currently looking for a job.<br>
 📫 How to reach me: <a href="mailto:gregooroo@gmail.com">gregooroo@gmail.com</a><br>
-<a href="https://stackoverflow.com/users/8442026/gregooroo"><img src="https://img.shields.io/badge/My Stack_Overflow Profile-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/8442026/gregooroo"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a><br>
+<a href="https://www.codewars.com/users/gregooroo"><img src="https://img.shields.io/badge/Codewars-222222?style=for-the-badge&logo=codewars&logoColor=red"></a>
 </p>
 
 <p align='center'>
